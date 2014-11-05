@@ -12,7 +12,7 @@ Throw an exception? Good, but what if throwing an exception is not an option? Yo
 ************************************************************************/
 
 //solution
-//虽然通过了，但是没有考虑溢出
+//not consider the overflow, although the solution is accepted
 class Solution {
 public:
 	int reverse(int x) {
